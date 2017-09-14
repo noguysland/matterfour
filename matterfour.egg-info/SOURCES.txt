@@ -1,0 +1,10 @@
+setup.py
+matterfour/__init__.py
+matterfour/mattbot.py
+matterfour/mattermost.py
+matterfour/settings.py
+matterfour.egg-info/PKG-INFO
+matterfour.egg-info/SOURCES.txt
+matterfour.egg-info/dependency_links.txt
+matterfour.egg-info/requires.txt
+matterfour.egg-info/top_level.txt

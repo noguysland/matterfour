@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: matterfour
+Version: 0.0.1
+Summary: A Bot for MatterMost API v4
+Home-page: http://github.com/seLain/matterfour
+Author: seLain
+Author-email: selain@nature.ee.ncku.edu.tw
+License: MIT
+Description: # matterfour
+Keywords: bot mattermost chat agent
+Platform: Any
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
